@@ -1,14 +1,6 @@
 % The Way to Computational Communication
 % 
-% 
-
-
-About
----
-
-### Cheng-Jun Wang
-#### 2013/8/18 19:58:33 
-![](http://s3.amazonaws.com/hakim-static/portfolio/images/rvl-js.jpg)
+% Cheng-Jun Wang
 
 
 Three metaphors of theory
@@ -57,12 +49,19 @@ What should we do?
 	- Statistical linguistics
 	- Human dynamics
 
+![](http://www.reactiongifs.com/wp-content/uploads/2012/11/emma-yeah-ok.gif)
+
+
+
 What should we do?
 ---
 	
 + Oppotunity
-	- Big data& digital traces
+	- Big data & digital traces
 	- Digital media
+
+![](http://i.imgur.com/H9KCl.gif)
+
 
 What should we do?
 ---

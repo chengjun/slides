@@ -17,6 +17,7 @@ Install Pandoc
 ---
 ![](http://2.bp.blogspot.com/-pxBFVXfcaDk/UfI7gsOaAPI/AAAAAAAAFZQ/TkyEB5b49uE/s200/pandoc+conversion+documentos+doc+rtf+tex+odt+html+wikimedia.PNG)
 
+![](http://www.reactiongifs.com/wp-content/uploads/2012/11/emma-yeah-ok.gif)
 
 Method 1
 --------------------
@@ -29,9 +30,9 @@ Second, create a reveal.js template in the reveal.js directory.
      Remove everything inside the <div id="slides">.
      and replace it with $body$. Save this as template.revealjs.
 
-Second, Using powershell, cd into the reveal.js directory.
+Third, Using powershell, cd into the reveal.js directory.
 
-Third, run the pandoc script:
+Fourth, run the pandoc script:
 
 	pandoc --section-divs -t html5 -s \
 		   --template template.revealjs \
@@ -64,3 +65,7 @@ The following variables can be defined from the command line:
 * theme
 * transition
 
+Go!
+---
+
+![](http://i.imgur.com/H9KCl.gif)
