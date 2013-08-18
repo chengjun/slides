@@ -74,8 +74,8 @@
 <pre><code> Edit the demo file index.html in the reveal.js repository. 
  Remove everything inside the &lt;div id=&quot;slides&quot;&gt;.
  and replace it with $body$. Save this as template.revealjs.</code></pre>
-<p>Second, Using powershell, cd into the reveal.js directory.</p>
-<p>Third, run the pandoc script:</p>
+<p>Third, Using powershell, cd into the reveal.js directory.</p>
+<p>Fourth, run the pandoc script:</p>
 <pre><code>pandoc --section-divs -t html5 -s \
        --template template.revealjs \
        -o myslides.html myslides.txt</code></pre>
