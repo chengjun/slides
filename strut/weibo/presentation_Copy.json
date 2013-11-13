@@ -1,0 +1,856 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 15,
+          "y": 213,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div style=\"text-align: center;\"><b><font color=\"#680cac\">Information Diffusion on Microblogs:&nbsp;</font></b></div><div style=\"text-align: center;\"><b><font color=\"#680cac\">Testing the Threshold Hypothesis of Interpersonal Effects&nbsp;</font></b></div><div style=\"text-align: center;\"><br></div>",
+          "size": 38,
+          "selected": false,
+          "skewX": 0
+        },
+        {
+          "TextBox": {},
+          "x": 126,
+          "y": 353.47342995169083,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<div style=\"text-align: center;\"><span style=\"font-family: Ubuntu, sans-serif;\"><font color=\"#0e5a84\">Cheng-Jun Wang</font></span></div><div style=\"text-align: center;\"><font color=\"#0e5a84\"><br></font></div><font face=\"Ubuntu, sans-serif\"><div style=\"text-align: center;\"><font color=\"#0e5a84\">The 2013 Asian Symposium of Doctoral Students in Communication</font></div><div style=\"text-align: center;\"><font color=\"#0e5a84\"><br></font></div><div style=\"text-align: center;\"><font color=\"#0e5a84\">2013 Nov 18</font></div><div style=\"text-align: center;\"><br></div></font>",
+          "selected": false,
+          "skewX": 0,
+          "rotate": 0
+        },
+        {
+          "src": "http://farm3.staticflickr.com/2882/10814353655_959d9d5466_o.png",
+          "type": "Image",
+          "x": 113,
+          "y": 632,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": false,
+      "active": false,
+      "x": 135,
+      "y": 124
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 102,
+          "y": 19,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<div></div><font color=\"#000000\" face=\"Ubuntu\">Introduction</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 97,
+          "y": 131,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 61,
+          "text": "<ul><li><b style=\"line-height: normal; font-size: 28px;\"><font color=\"#1a3493\" face=\"Hammersmith One, sans-serif\">Microblogs gain great popularities in the past years.&nbsp;</font></b><br></li></ul>",
+          "selected": false,
+          "rotate": 0,
+          "skewX": -0.12
+        },
+        {
+          "TextBox": {},
+          "x": 107,
+          "y": 221,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 28,
+          "text": "<font color=\"#000000\" face=\"Ubuntu\">1. Created in 2006, over 340 million tweets daily. By 2012, 500 <br>million registered users on Twitter, and 200 million active users;<br>2. In China, there are 400 million registered users on Sina Weibo by <br>February 2012, and 300 million are active (Wikipedia, 2012)</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 97,
+          "y": 396,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<div></div><font face=\"Lato\" color=\"#000000\"><ul><li><a href=\"http://null\" style=\"line-height: normal; font-size: 36px;\"><b>The theoretical relevance of this study is framed&nbsp;</b></a><br></li></ul><a href=\"http://null\"><b>with the threshold hypothesis of interpersonal <br>effects (Rogers &amp; Kincaid, 1981; Valente, 1995).&nbsp;</b></a></font><br>",
+          "selected": false,
+          "skewX": -0.46
+        },
+        {
+          "TextBox": {},
+          "x": 126,
+          "y": 565,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<ol><li><b style=\"color: rgb(0, 0, 0); font-family: Lato; line-height: normal; font-size: 36px;\">Yet little is known about to what extent ...</b></li><li><b style=\"color: rgb(0, 0, 0); font-family: Lato; line-height: normal; font-size: 36px;\">&nbsp;Whether two regimes  of social influence exists&nbsp;</b></li></ol><b style=\"color: rgb(0, 0, 0); font-family: Lato; font-size: 36px;\">&nbsp; &nbsp; (Onnela &amp; Reed-Tsochas, 2010)</b><br>",
+          "selected": false,
+          "skewX": 0.39
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.78,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 130,
+      "y": 416,
+      "background": "bg-solid-yellow"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 102,
+          "y": 20,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<div></div><font color=\"#000000\" face=\"Ubuntu\">Microblogs and Information Diffusion</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 102,
+          "y": 214,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font color=\"#000000\" face=\"Ubuntu\">Microblog is a broadcast medium in the form of blogging (Microblogging, 2013)<br></font>1. information sharing websites (ISWs)<br>2. needs little or even no emotional attachment<br>3. networked public<br><br>",
+          "selected": false,
+          "skewX": -0.46
+        },
+        {
+          "TextBox": {},
+          "x": 105,
+          "y": 335,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font color=\"#000000\" face=\"Ubuntu\"><b>Three categories</b>: retweets, conversations (replies or comments), monologues<br></font><b>Two features</b>: hashtags and URLs<br><br>",
+          "selected": false,
+          "skewX": 0.57
+        },
+        {
+          "TextBox": {},
+          "x": 73,
+          "y": 400,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font color=\"#000000\" face=\"Ubuntu\"><b>For a specific tweet:&nbsp;<br></b>On Twitter, only those who directly retweet the original tweet will appear in the<br>&nbsp;webpage of the original tweet (those who retweet the retweeters will <br>not be listed).<br></font>On Sina Weibo, all the retweeters are archived in the webpage of the original tweet<br>",
+          "selected": false,
+          "skewX": -0.5
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.55,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "x": 397,
+      "y": 458,
+      "background": "bg-solid-salmon"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 54,
+          "y": 46,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<div></div><font color=\"#000000\" face=\"Ubuntu\">The driving forces of information diffusion</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 127,
+          "y": 197,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 33,
+          "text": "<ol><li><span style=\"color: rgb(26, 52, 147); font-family: 'Hammersmith One'; line-height: normal; font-size: 36px;\">exogenous impacts</span><br></li><li><span style=\"color: rgb(26, 52, 147); font-family: 'Hammersmith One'; line-height: normal; font-size: 36px;\">interpersonal influences</span><br></li><li><span style=\"color: rgb(26, 52, 147); font-family: 'Hammersmith One'; line-height: normal; font-size: 36px;\">individual attributes</span><br></li><li><span style=\"color: rgb(26, 52, 147); font-family: 'Hammersmith One'; line-height: normal; font-size: 36px;\">the features of information</span><br></li></ol>",
+          "selected": false,
+          "skewX": 0.61
+        },
+        {
+          "TextBox": {},
+          "x": 127,
+          "y": 406,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 25,
+          "text": "<font color=\"#1a3493\" face=\"Hammersmith One\">This study focuses on interpersonal effects and builds up the theoretical <br>frameworks on the threshold models (Granovetter, 1978; <br>Granovetter &amp; Soong, 1983, 1986) and J-curve model (Greenberg, 1964).</font><br>",
+          "selected": false,
+          "rotate": 0,
+          "skewX": -0.53
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.36,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "x": 271,
+      "y": 312,
+      "background": "bg-solid-grass"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 19,
+          "y": 30,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<div></div><font face=\"Ubuntu\" color=\"#1a3493\">Threshold Hypothesis of Interpersonal Effects</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 30,
+          "y": 153,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<ul><li><b style=\"line-height: normal; font-size: 28.18181800842285px; color: rgb(26, 52, 147); font-family: 'Hammersmith One', sans-serif;\">Threshold is the proportion of people engaging in the activity</b></li></ul><b style=\"font-size: 28.18181800842285px; color: rgb(26, 52, 147); font-family: 'Hammersmith One', sans-serif;\">&nbsp;when theircost is equal to their utility of engagement. &nbsp;</b><br>",
+          "selected": false,
+          "rotate": 0,
+          "skewX": -0.22
+        },
+        {
+          "TextBox": {},
+          "x": 96,
+          "y": 305,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 30,
+          "text": "<font face=\"Ubuntu\"><font color=\"#7bb615\">Threshold models conjectures that the utility of engagement is a <br>function of the fraction of people in a social system who have already<br>&nbsp;engaged in the behavior (Granovetter, 1978; Granovetter &amp; Soong, <br>1983, 1986).&nbsp;</font><br><br></font><br>",
+          "selected": false,
+          "skewX": 0.52
+        },
+        {
+          "TextBox": {},
+          "x": 117,
+          "y": 513,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\" face=\"Ubuntu\">utility-cost assumption\r<br></font>reduce the resistance of engagement&nbsp;<br>",
+          "selected": false,
+          "skewX": -0.54
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.78,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 429,
+      "y": 118,
+      "background": "bg-solid-black"
+    },
+    {
+      "components": [
+        {
+          "src": "http://farm4.staticflickr.com/3747/10833072754_073d256fb3_o.png",
+          "type": "Image",
+          "x": 64,
+          "y": 63,
+          "scale": {
+            "x": 0.7551724137931034,
+            "y": 0.7551724137931034,
+            "width": 657,
+            "height": 439.51034482758615
+          },
+          "imageType": "PNG",
+          "selected": false,
+          "skewX": -0.27,
+          "rotate": -0.21
+        },
+        {
+          "TextBox": {},
+          "x": 69,
+          "y": 520,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 29,
+          "text": "<font face=\"Ubuntu\" color=\"#7bb615\">H1a: interpersonal effects<br>&nbsp;measured by mean threshold significantly<br>&nbsp;influences the size of information diffusi</font><font face=\"Ubuntu\" color=\"#7bb615\">on</font><font face=\"Ubuntu\" color=\"#000000\">.</font><br>",
+          "selected": false,
+          "rotate": -0.22
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 804,
+      "y": 118,
+      "background": "bg-transparent"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 102,
+          "y": 19,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<div></div><font color=\"#000000\" face=\"Ubuntu\">J-curve of news diffusion</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 93,
+          "y": 183,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font color=\"#000000\" face=\"Ubuntu\"><b>The J-curve model illustrates, there is a nonlinear relationship<br>&nbsp;between interpersonal effects and diffusion size (Greenberg, 1964;<br>&nbsp;MaQuail &amp; Windahl, 1993).&nbsp;<br></b><br>1. for the information of less importance, there is a negative relationship<br>between interpersonal effects and diffusion size; <br>2. while for those information of larger salience, there is a positive <br>relationship between&nbsp;interpersonal effects and diffusion size.&nbsp;<br><br></font><b>Two regimes</b> of social influence in the diffusion of Facebook applications <br>(Onnela &amp; Reed-Tsochas, 2010)<br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 636,
+      "y": 263,
+      "background": "bg-solid-grass"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 69,
+          "y": 442,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#7bb615\" face=\"Ubuntu\">H1b: the relationship between interpersonal effects and <br>diffusion size is curvilinear.&nbsp;</font><br>",
+          "selected": false
+        },
+        {
+          "src": "http://farm8.staticflickr.com/7316/10832983706_779306a751_b.jpg",
+          "type": "Image",
+          "x": 190,
+          "y": 24,
+          "scale": {
+            "x": 0.6474609375,
+            "y": 0.6474609375,
+            "width": 663,
+            "height": 414.375
+          },
+          "imageType": "JPG",
+          "selected": false,
+          "skewX": -0.04
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.78,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "x": 689,
+      "y": 480,
+      "background": "bg-transparent"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 74,
+          "y": 21,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<div></div><font color=\"#000000\" face=\"Ubuntu\">Diffusion depth</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 167,
+          "y": 148,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "Information diffusion through social networks is a chain-reaction \n<br>process. The contagion may “infect” the local community effectively, and stop \n<br>trigger further diffusions. <br><br>There exists structural bottlenecks” (Borge-Holthoefer, Baños, <br>González-Bailón, &amp; Moreno, 2013).<br>",
+          "selected": false,
+          "rotate": 0,
+          "skewX": -0.53
+        },
+        {
+          "TextBox": {},
+          "x": 73,
+          "y": 433,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 43,
+          "text": "<font color=\"#7bb615\" face=\"League Gothic, sans-serif\">H2a: The depth of information diffusion has \n<br>positive influence on the size of information diffusion.\n<br>H2b: The depth of information diffusion moderates \n<br>the interpersonal effects on the size of information diffusion.  \n<br></font><br>",
+          "selected": false,
+          "skewX": -0.3
+        },
+        {
+          "TextBox": {},
+          "x": 113,
+          "y": 330,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font color=\"#1a3493\">If the bridging nodes have a higher resistance to retweet&nbsp;<br>it can spread information to new communities<br>diffusion depth can substantially amplify or limit the interpersonal effects</font>&nbsp;<br>",
+          "selected": false,
+          "rotate": 0
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.78,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "x": 861,
+      "y": 418,
+      "background": "bg-solid-grass"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 33,
+          "y": 38,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<div></div><font color=\"#000000\" face=\"Ubuntu\">The other hypotheses</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 45,
+          "y": 137,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font color=\"#1a3493\">H3a: the popularity of submitters is positively related to the size of information diffusion.\n<br></font>H3b: the activity of submitters is positively related to the size of information diffusion.<br>&nbsp;<br>H4: the number of comments is positively correlated with the size of information diffusion.&nbsp;<br><br>H5: the category of information has significant influence on the size of information diffusion. \n<br>RQ1: whether tweets of opinion expression can spread to a wider audience than the other<br>&nbsp;categories of information?\n<br><br>H6: the information embedded with rich media (e.g., url, image, video, and emotions) <br>tends to increase the size of information diffusion.&nbsp;<br><br>H7: Lifetime of information diffusion is positively related to the size of information diffusion.&nbsp;<br>",
+          "selected": false,
+          "rotate": 0
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.78,
+      "index": 9,
+      "selected": false,
+      "active": false,
+      "x": 1287,
+      "y": 397,
+      "background": "bg-solid-smoke"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 58,
+          "y": 39,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<div></div><font face=\"Ubuntu\" color=\"#1a3493\">Method</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 37,
+          "y": 179,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font color=\"#b6156a\">We randomly generate 300 million Weibo user ids in June 2012 using the method <br>of random digital search (Zhu, Mo, Wang, &amp; Lu, 2011), and detect the existence of <br>these user ids, which yields a random sample of 62.3 thousands Weibo users, and <br>all of their tweets (N = 5.04 million) are crawled. <br><br>To quantify the degree distribution of information diffusion, we sample 600 &nbsp;<br>thousand tweets from the corpus, and collected the number of <br>retweets/comments/favorites &nbsp;for these tweets through the API of Sina Weibo (Weibo, 2012).<br><br>Further, to study the information diffusion with regression models, we randomly sample <br>2500 pieces of information whose diffusion size is larger than 100, <br>and 1000 pieces of information whose diffusion size is smaller than 100.&nbsp;<br><br><br><br></font><br>",
+          "selected": false,
+          "rotate": 0
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.78,
+      "index": 10,
+      "selected": false,
+      "active": false,
+      "x": 1059,
+      "y": 147,
+      "background": "bg-solid-black"
+    },
+    {
+      "components": [
+        {
+          "src": "http://farm3.staticflickr.com/2834/10833533606_0b16aedf09_b.jpg",
+          "type": "Image",
+          "x": 199,
+          "y": 36,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 11,
+      "selected": false,
+      "active": false,
+      "x": 1319,
+      "y": 133
+    },
+    {
+      "components": [
+        {
+          "src": "http://farm6.staticflickr.com/5548/10833586974_54d909bcce_b.jpg",
+          "type": "Image",
+          "x": 26,
+          "y": 27,
+          "scale": {
+            "x": 0.4921875,
+            "y": 0.4921875,
+            "width": 504,
+            "height": 336.1640625
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "http://farm8.staticflickr.com/7447/10833587074_a894d50b87_b.jpg",
+          "type": "Image",
+          "x": 454,
+          "y": 375,
+          "scale": {
+            "x": 0.53125,
+            "y": 0.53125,
+            "width": 544,
+            "height": 340
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "http://farm3.staticflickr.com/2877/10833586634_0107d1fded_b.jpg",
+          "type": "Image",
+          "x": 591,
+          "y": 10,
+          "scale": {
+            "x": 0.359375,
+            "y": 0.359375,
+            "width": 368,
+            "height": 368
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "http://farm6.staticflickr.com/5522/10833423715_d51f8a778a_b.jpg",
+          "type": "Image",
+          "x": 8,
+          "y": 380,
+          "scale": {
+            "x": 0.5891472868217055,
+            "y": 0.5891472868217055,
+            "width": 456.00000000000006,
+            "height": 328.74418604651163
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 12,
+      "selected": true,
+      "active": true,
+      "x": 3540,
+      "y": 740
+    },
+    {
+      "components": [
+        {
+          "src": "http://weblab.com.cityu.edu.hk/blog/wp-content/uploads/2011/06/Web_Mining_Lab_Logo_light_version.gif",
+          "type": "Image",
+          "x": 61,
+          "y": 615,
+          "scale": {
+            "x": 0.21250000000000002,
+            "y": 0.21250000000000002,
+            "width": 255.00000000000003,
+            "height": 66.5125
+          },
+          "imageType": "GIF",
+          "selected": false
+        },
+        {
+          "src": "http://chengjun.github.io/",
+          "type": "WebFrame",
+          "x": -9,
+          "y": -3,
+          "scale": {
+            "x": 1.0782819634703198,
+            "y": 1.0782819634703198,
+            "width": 1102.0041666666668,
+            "height": 880.9563641552513
+          },
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 33,
+          "y": 422,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 69,
+          "text": "<font face=\"Ubuntu\" color=\"#eeeeee\">This is the end.<br>Thank you.<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -1.93,
+      "index": 13,
+      "selected": false,
+      "active": false,
+      "x": 1080,
+      "y": 424,
+      "background": "bg-solid-darkgreen"
+    }
+  ],
+  "background": "bg-solid-light",
+  "activeSlide": {
+    "components": [
+      {
+        "src": "http://farm6.staticflickr.com/5548/10833586974_54d909bcce_b.jpg",
+        "type": "Image",
+        "x": 26,
+        "y": 27,
+        "scale": {
+          "x": 0.4921875,
+          "y": 0.4921875,
+          "width": 504,
+          "height": 336.1640625
+        },
+        "imageType": "JPG",
+        "selected": false
+      },
+      {
+        "src": "http://farm8.staticflickr.com/7447/10833587074_a894d50b87_b.jpg",
+        "type": "Image",
+        "x": 454,
+        "y": 375,
+        "scale": {
+          "x": 0.53125,
+          "y": 0.53125,
+          "width": 544,
+          "height": 340
+        },
+        "imageType": "JPG",
+        "selected": false
+      },
+      {
+        "src": "http://farm3.staticflickr.com/2877/10833586634_0107d1fded_b.jpg",
+        "type": "Image",
+        "x": 591,
+        "y": 10,
+        "scale": {
+          "x": 0.359375,
+          "y": 0.359375,
+          "width": 368,
+          "height": 368
+        },
+        "imageType": "JPG",
+        "selected": false
+      },
+      {
+        "src": "http://farm6.staticflickr.com/5522/10833423715_d51f8a778a_b.jpg",
+        "type": "Image",
+        "x": 8,
+        "y": 380,
+        "scale": {
+          "x": 0.5891472868217055,
+          "y": 0.5891472868217055,
+          "width": 456.00000000000006,
+          "height": 328.74418604651163
+        },
+        "imageType": "JPG",
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 3,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 12,
+    "selected": true,
+    "active": true,
+    "x": 3540,
+    "y": 740
+  },
+  "fileName": "presentation-unnamed",
+  "surface": "img:https://github.com/chengjun/chengjun.github.io/blob/master/assets/images/8.jpg?raw=true",
+  "deckVersion": "1.0",
+  "cannedTransition": "coverflow",
+  "customBackgrounds": {
+    "bgs": []
+  },
+  "overviewX": 1835,
+  "overviewY": 429
+}
