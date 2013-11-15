@@ -4,8 +4,8 @@
       "components": [
         {
           "TextBox": {},
-          "x": 15,
-          "y": 213,
+          "x": 18,
+          "y": 181,
           "scale": {
             "x": 1,
             "y": 1
@@ -18,8 +18,8 @@
         },
         {
           "TextBox": {},
-          "x": 126,
-          "y": 353.47342995169083,
+          "x": 127,
+          "y": 436,
           "scale": {
             "x": 1,
             "y": 1
@@ -100,8 +100,8 @@
         },
         {
           "TextBox": {},
-          "x": 97,
-          "y": 396,
+          "x": 115,
+          "y": 537,
           "scale": {
             "x": 1,
             "y": 1
@@ -114,8 +114,8 @@
         },
         {
           "TextBox": {},
-          "x": 126,
-          "y": 565,
+          "x": 125,
+          "y": 387,
           "scale": {
             "x": 1,
             "y": 1
@@ -143,21 +143,22 @@
       "components": [
         {
           "TextBox": {},
-          "x": 102,
-          "y": 20,
+          "x": 92,
+          "y": 58,
           "scale": {
             "x": 1,
             "y": 1
           },
           "type": "TextBox",
-          "size": 48,
+          "size": 52,
           "text": "<div></div><font color=\"#000000\" face=\"Ubuntu\">Microblogs and Information Diffusion</font><br>",
-          "selected": false
+          "selected": false,
+          "skewX": -0.55
         },
         {
           "TextBox": {},
-          "x": 102,
-          "y": 214,
+          "x": 55,
+          "y": 161,
           "scale": {
             "x": 1,
             "y": 1
@@ -170,7 +171,7 @@
         },
         {
           "TextBox": {},
-          "x": 105,
+          "x": 68,
           "y": 335,
           "scale": {
             "x": 1,
@@ -184,8 +185,8 @@
         },
         {
           "TextBox": {},
-          "x": 73,
-          "y": 400,
+          "x": 61,
+          "y": 470,
           "scale": {
             "x": 1,
             "y": 1
@@ -208,6 +209,45 @@
       "x": 397,
       "y": 458,
       "background": "bg-solid-salmon"
+    },
+    {
+      "components": [
+        {
+          "src": "http://www.youtube.com/watch?v=yQBOF7XeCE0",
+          "type": "Video",
+          "x": 104,
+          "y": 192,
+          "scale": {
+            "width": 813.7335820507487,
+            "height": 524.9038321547421
+          },
+          "shortSrc": "yQBOF7XeCE0",
+          "videoType": "youtube",
+          "srcType": "yt",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 101,
+          "y": 91,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#1a3493\" face=\"League Gothic\">Projet Cascade (R&amp;D NYTimes Labs)<br></font><font color=\"#7bb615\">News sharing on Twitter</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": false,
+      "active": false
     },
     {
       "components": [
@@ -259,7 +299,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0.36,
-      "index": 3,
+      "index": 4,
       "selected": false,
       "active": false,
       "x": 271,
@@ -305,15 +345,15 @@
             "y": 1
           },
           "type": "TextBox",
-          "size": 30,
+          "size": 23,
           "text": "<font face=\"Ubuntu\"><font color=\"#7bb615\">Threshold models conjectures that the utility of engagement is a <br>function of the fraction of people in a social system who have already<br>&nbsp;engaged in the behavior (Granovetter, 1978; Granovetter &amp; Soong, <br>1983, 1986).&nbsp;</font><br><br></font><br>",
           "selected": false,
           "skewX": 0.52
         },
         {
           "TextBox": {},
-          "x": 117,
-          "y": 513,
+          "x": 100,
+          "y": 451,
           "scale": {
             "x": 1,
             "y": 1
@@ -330,7 +370,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0.78,
-      "index": 4,
+      "index": 5,
       "selected": false,
       "active": false,
       "x": 429,
@@ -342,32 +382,33 @@
         {
           "src": "http://farm4.staticflickr.com/3747/10833072754_073d256fb3_o.png",
           "type": "Image",
-          "x": 64,
-          "y": 63,
+          "x": 134,
+          "y": 80,
           "scale": {
-            "x": 0.7551724137931034,
-            "y": 0.7551724137931034,
-            "width": 657,
-            "height": 439.51034482758615
+            "x": 0.8482758620689654,
+            "y": 0.8482758620689654,
+            "width": 737.9999999999999,
+            "height": 493.69655172413786
           },
           "imageType": "PNG",
           "selected": false,
-          "skewX": -0.27,
-          "rotate": -0.21
+          "skewX": 0.29,
+          "rotate": 0.04
         },
         {
           "TextBox": {},
-          "x": 69,
-          "y": 520,
+          "x": 193,
+          "y": 598,
           "scale": {
             "x": 1,
             "y": 1
           },
           "type": "TextBox",
           "size": 29,
-          "text": "<font face=\"Ubuntu\" color=\"#7bb615\">H1a: interpersonal effects<br>&nbsp;measured by mean threshold significantly<br>&nbsp;influences the size of information diffusi</font><font face=\"Ubuntu\" color=\"#7bb615\">on</font><font face=\"Ubuntu\" color=\"#000000\">.</font><br>",
+          "text": "<font face=\"Ubuntu\" color=\"#7bb615\">H1a: interpersonal effects<br>&nbsp;measured by mean threshold significantly<br>&nbsp;influence the size of information diffusi</font><font face=\"Ubuntu\" color=\"#7bb615\">on</font><font face=\"Ubuntu\" color=\"#000000\">.</font><br>",
           "selected": false,
-          "rotate": -0.22
+          "rotate": 0.03,
+          "skewX": -0.25
         }
       ],
       "z": 0,
@@ -375,7 +416,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 5,
+      "index": 6,
       "selected": false,
       "active": false,
       "x": 804,
@@ -386,7 +427,7 @@
       "components": [
         {
           "TextBox": {},
-          "x": 102,
+          "x": 65,
           "y": 19,
           "scale": {
             "x": 1,
@@ -399,16 +440,48 @@
         },
         {
           "TextBox": {},
-          "x": 93,
-          "y": 183,
+          "x": 72,
+          "y": 105,
           "scale": {
             "x": 1,
             "y": 1
           },
           "type": "TextBox",
-          "size": 24,
+          "size": 23,
           "text": "<font color=\"#000000\" face=\"Ubuntu\"><b>The J-curve model illustrates, there is a nonlinear relationship<br>&nbsp;between interpersonal effects and diffusion size (Greenberg, 1964;<br>&nbsp;MaQuail &amp; Windahl, 1993).&nbsp;<br></b><br>1. for the information of less importance, there is a negative relationship<br>between interpersonal effects and diffusion size; <br>2. while for those information of larger salience, there is a positive <br>relationship between&nbsp;interpersonal effects and diffusion size.&nbsp;<br><br></font><b>Two regimes</b> of social influence in the diffusion of Facebook applications <br>(Onnela &amp; Reed-Tsochas, 2010)<br>",
           "selected": false
+        },
+        {
+          "src": "http://farm8.staticflickr.com/7316/10832983706_779306a751_b.jpg",
+          "type": "Image",
+          "x": 71,
+          "y": 431,
+          "scale": {
+            "x": 0.48339843750000006,
+            "y": 0.48339843750000006,
+            "width": 495.00000000000006,
+            "height": 309.37500000000006
+          },
+          "imageType": "JPG",
+          "selected": false,
+          "skewX": 0.05,
+          "rotate": -0.01
+        },
+        {
+          "TextBox": {},
+          "x": 571,
+          "y": 553,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 25,
+          "text": "<font face=\"Ubuntu, sans-serif\"><font color=\"#b6156a\">H1b: the relationship between <br>interpersonal &nbsp;effects and diffusion<br>&nbsp;size is curvilinear.</font><font color=\"#7bb615\">&nbsp;</font></font><br>",
+          "selected": false,
+          "skewY": -0.18,
+          "skewX": 0.14,
+          "rotate": 0.18
         }
       ],
       "z": 0,
@@ -416,55 +489,12 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 6,
+      "index": 7,
       "selected": false,
       "active": false,
       "x": 636,
       "y": 263,
       "background": "bg-solid-grass"
-    },
-    {
-      "components": [
-        {
-          "TextBox": {},
-          "x": 69,
-          "y": 442,
-          "scale": {
-            "x": 1,
-            "y": 1
-          },
-          "type": "TextBox",
-          "size": 36,
-          "text": "<font color=\"#7bb615\" face=\"Ubuntu\">H1b: the relationship between interpersonal effects and <br>diffusion size is curvilinear.&nbsp;</font><br>",
-          "selected": false
-        },
-        {
-          "src": "http://farm8.staticflickr.com/7316/10832983706_779306a751_b.jpg",
-          "type": "Image",
-          "x": 190,
-          "y": 24,
-          "scale": {
-            "x": 0.6474609375,
-            "y": 0.6474609375,
-            "width": 663,
-            "height": 414.375
-          },
-          "imageType": "JPG",
-          "selected": false,
-          "skewX": -0.04
-        }
-      ],
-      "z": 0,
-      "impScale": 3,
-      "rotateX": 0,
-      "rotateY": 0,
-      "rotateZ": 0.78,
-      "index": 7,
-      "selected": false,
-      "active": false,
-      "x": 689,
-      "y": 480,
-      "background": "bg-transparent"
     },
     {
       "components": [
@@ -491,7 +521,7 @@
           },
           "type": "TextBox",
           "size": 24,
-          "text": "Information diffusion through social networks is a chain-reaction \n<br>process. The contagion may “infect” the local community effectively, and stop \n<br>trigger further diffusions. <br><br>There exists structural bottlenecks” (Borge-Holthoefer, Baños, <br>González-Bailón, &amp; Moreno, 2013).<br>",
+          "text": "Information diffusion through social networks is a chain-reaction \n<br>process. The contagion may “infect” the local community effectively, and stop \n<br>trigger further diffusions. <br><br>There exists structural bottlenecks (Borge-Holthoefer, Baños, <br>González-Bailón, &amp; Moreno, 2013).<br>",
           "selected": false,
           "rotate": 0,
           "skewX": -0.53
@@ -533,8 +563,8 @@
       "index": 8,
       "selected": false,
       "active": false,
-      "x": 861,
-      "y": 418,
+      "x": 834,
+      "y": 417,
       "background": "bg-solid-grass"
     },
     {
@@ -596,15 +626,15 @@
         },
         {
           "TextBox": {},
-          "x": 37,
-          "y": 179,
+          "x": 70,
+          "y": 177,
           "scale": {
             "x": 1,
             "y": 1
           },
           "type": "TextBox",
           "size": 24,
-          "text": "<font color=\"#b6156a\">We randomly generate 300 million Weibo user ids in June 2012 using the method <br>of random digital search (Zhu, Mo, Wang, &amp; Lu, 2011), and detect the existence of <br>these user ids, which yields a random sample of 62.3 thousands Weibo users, and <br>all of their tweets (N = 5.04 million) are crawled. <br><br>To quantify the degree distribution of information diffusion, we sample 600 &nbsp;<br>thousand tweets from the corpus, and collected the number of <br>retweets/comments/favorites &nbsp;for these tweets through the API of Sina Weibo (Weibo, 2012).<br><br>Further, to study the information diffusion with regression models, we randomly sample <br>2500 pieces of information whose diffusion size is larger than 100, <br>and 1000 pieces of information whose diffusion size is smaller than 100.&nbsp;<br><br><br><br></font><br>",
+          "text": "<font color=\"#b6156a\">We randomly generate 300 million Weibo user ids in June 2012 using the method <br>of random digital search (Zhu, Mo, Wang, &amp; Lu, 2011), and detect the existence of <br>these user ids, which yields a random sample of 62.3 thousands Weibo users, and <br>all of their tweets (N = 5.04 million) are crawled. <br><br>To quantify the degree distribution of information diffusion, I sample 600 &nbsp;<br>thousand tweets from the corpus, and collected the number of <br>retweets/comments/favorites &nbsp;for these tweets through <br>the API of Sina Weibo (Weibo, 2012).<br><br>Further, to study the information diffusion with regression models, <br>I collect the diffusion network and their following graph for 8.5 thousand<br>tweets.&nbsp;Among which, the content of 3500 tweets are coded.<br></font><br>",
           "selected": false,
           "rotate": 0
         }
@@ -695,7 +725,7 @@
           "src": "http://farm6.staticflickr.com/5522/10833423715_d51f8a778a_b.jpg",
           "type": "Image",
           "x": 8,
-          "y": 380,
+          "y": 379,
           "scale": {
             "x": 0.5891472868217055,
             "y": 0.5891472868217055,
@@ -712,8 +742,8 @@
       "rotateY": 0,
       "rotateZ": 0,
       "index": 12,
-      "selected": true,
-      "active": true,
+      "selected": false,
+      "active": false,
       "x": 3540,
       "y": 740
     },
@@ -722,8 +752,8 @@
         {
           "src": "http://weblab.com.cityu.edu.hk/blog/wp-content/uploads/2011/06/Web_Mining_Lab_Logo_light_version.gif",
           "type": "Image",
-          "x": 61,
-          "y": 615,
+          "x": 34,
+          "y": 384,
           "scale": {
             "x": 0.21250000000000002,
             "y": 0.21250000000000002,
@@ -736,20 +766,21 @@
         {
           "src": "http://chengjun.github.io/",
           "type": "WebFrame",
-          "x": -9,
-          "y": -3,
+          "x": 461,
+          "y": -22,
           "scale": {
-            "x": 1.0782819634703198,
-            "y": 1.0782819634703198,
-            "width": 1102.0041666666668,
-            "height": 880.9563641552513
+            "x": 0.9758665045331216,
+            "y": 0.9758665045331216,
+            "width": 1010.0218321917808,
+            "height": 807.0415992488915
           },
-          "selected": false
+          "selected": false,
+          "skewX": 0.39
         },
         {
           "TextBox": {},
-          "x": 33,
-          "y": 422,
+          "x": 7,
+          "y": 513,
           "scale": {
             "x": 1,
             "y": 1
@@ -766,10 +797,10 @@
       "rotateY": 0,
       "rotateZ": -1.93,
       "index": 13,
-      "selected": false,
-      "active": false,
-      "x": 1080,
-      "y": 424,
+      "selected": true,
+      "active": true,
+      "x": 1057,
+      "y": 423,
       "background": "bg-solid-darkgreen"
     }
   ],
@@ -777,59 +808,44 @@
   "activeSlide": {
     "components": [
       {
-        "src": "http://farm6.staticflickr.com/5548/10833586974_54d909bcce_b.jpg",
+        "src": "http://weblab.com.cityu.edu.hk/blog/wp-content/uploads/2011/06/Web_Mining_Lab_Logo_light_version.gif",
         "type": "Image",
-        "x": 26,
-        "y": 27,
+        "x": 34,
+        "y": 384,
         "scale": {
-          "x": 0.4921875,
-          "y": 0.4921875,
-          "width": 504,
-          "height": 336.1640625
+          "x": 0.21250000000000002,
+          "y": 0.21250000000000002,
+          "width": 255.00000000000003,
+          "height": 66.5125
         },
-        "imageType": "JPG",
+        "imageType": "GIF",
         "selected": false
       },
       {
-        "src": "http://farm8.staticflickr.com/7447/10833587074_a894d50b87_b.jpg",
-        "type": "Image",
-        "x": 454,
-        "y": 375,
+        "src": "http://chengjun.github.io/",
+        "type": "WebFrame",
+        "x": 461,
+        "y": -22,
         "scale": {
-          "x": 0.53125,
-          "y": 0.53125,
-          "width": 544,
-          "height": 340
+          "x": 0.9758665045331216,
+          "y": 0.9758665045331216,
+          "width": 1010.0218321917808,
+          "height": 807.0415992488915
         },
-        "imageType": "JPG",
-        "selected": false
+        "selected": false,
+        "skewX": 0.39
       },
       {
-        "src": "http://farm3.staticflickr.com/2877/10833586634_0107d1fded_b.jpg",
-        "type": "Image",
-        "x": 591,
-        "y": 10,
+        "TextBox": {},
+        "x": 7,
+        "y": 513,
         "scale": {
-          "x": 0.359375,
-          "y": 0.359375,
-          "width": 368,
-          "height": 368
+          "x": 1,
+          "y": 1
         },
-        "imageType": "JPG",
-        "selected": false
-      },
-      {
-        "src": "http://farm6.staticflickr.com/5522/10833423715_d51f8a778a_b.jpg",
-        "type": "Image",
-        "x": 8,
-        "y": 380,
-        "scale": {
-          "x": 0.5891472868217055,
-          "y": 0.5891472868217055,
-          "width": 456.00000000000006,
-          "height": 328.74418604651163
-        },
-        "imageType": "JPG",
+        "type": "TextBox",
+        "size": 69,
+        "text": "<font face=\"Ubuntu\" color=\"#eeeeee\">This is the end.<br>Thank you.<br></font>",
         "selected": false
       }
     ],
@@ -837,20 +853,19 @@
     "impScale": 3,
     "rotateX": 0,
     "rotateY": 0,
-    "rotateZ": 0,
-    "index": 12,
+    "rotateZ": -1.93,
+    "index": 13,
     "selected": true,
     "active": true,
-    "x": 3540,
-    "y": 740
+    "x": 1057,
+    "y": 423,
+    "background": "bg-solid-darkgreen"
   },
-  "fileName": "presentation-unnamed",
+  "fileName": "c:/strut",
   "surface": "img:https://github.com/chengjun/chengjun.github.io/blob/master/assets/images/8.jpg?raw=true",
   "deckVersion": "1.0",
-  "cannedTransition": "coverflow",
+  "cannedTransition": "cube",
   "customBackgrounds": {
     "bgs": []
-  },
-  "overviewX": 1835,
-  "overviewY": 429
+  }
 }
