@@ -122,7 +122,7 @@
           },
           "type": "TextBox",
           "size": 24,
-          "text": "<ol><li><b style=\"color: rgb(0, 0, 0); font-family: Lato; line-height: normal; font-size: 36px;\">Yet little is known about to what extent ...</b></li><li><b style=\"color: rgb(0, 0, 0); font-family: Lato; line-height: normal; font-size: 36px;\">&nbsp;Whether two regimes  of social influence exists&nbsp;</b></li></ol><b style=\"color: rgb(0, 0, 0); font-family: Lato; font-size: 36px;\">&nbsp; &nbsp; (Onnela &amp; Reed-Tsochas, 2010)</b><br>",
+          "text": "<ol><li><b style=\"color: rgb(0, 0, 0); font-family: Lato; line-height: normal; font-size: 36px;\">Yet little is known about to what extent ...</b></li><li><b style=\"color: rgb(0, 0, 0); font-family: Lato; line-height: normal; font-size: 36px;\">&nbsp;Whether two regimes  of social influence exist&nbsp;</b></li></ol><b style=\"color: rgb(0, 0, 0); font-family: Lato; font-size: 36px;\">&nbsp; &nbsp; (Onnela &amp; Reed-Tsochas, 2010)</b><br>",
           "selected": false,
           "skewX": 0.39
         }
@@ -158,7 +158,7 @@
         {
           "TextBox": {},
           "x": 55,
-          "y": 161,
+          "y": 140,
           "scale": {
             "x": 1,
             "y": 1
@@ -171,8 +171,8 @@
         },
         {
           "TextBox": {},
-          "x": 68,
-          "y": 335,
+          "x": 49,
+          "y": 269,
           "scale": {
             "x": 1,
             "y": 1
@@ -184,18 +184,45 @@
           "skewX": 0.57
         },
         {
+          "src": "http://www.youtube.com/watch?v=yQBOF7XeCE0#t=114",
+          "type": "Video",
+          "x": 63,
+          "y": 353,
+          "scale": {
+            "width": 425,
+            "height": 344
+          },
+          "shortSrc": "yQBOF7XeCE0#t=114",
+          "videoType": "youtube",
+          "srcType": "yt",
+          "selected": false
+        },
+        {
           "TextBox": {},
-          "x": 61,
-          "y": 470,
+          "x": 554,
+          "y": 347,
           "scale": {
             "x": 1,
             "y": 1
           },
           "type": "TextBox",
-          "size": 24,
-          "text": "<font color=\"#000000\" face=\"Ubuntu\"><b>For a specific tweet:&nbsp;<br></b>On Twitter, only those who directly retweet the original tweet will appear in the<br>&nbsp;webpage of the original tweet (those who retweet the retweeters will <br>not be listed).<br></font>On Sina Weibo, all the retweeters are archived in the webpage of the original tweet<br>",
+          "size": 36,
+          "text": "<font color=\"#1a3493\" face=\"League Gothic\">Projet Cascade (R&amp;D NYTimes Labs)<br></font><font color=\"#7bb615\">News sharing on Twitter</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 529,
+          "y": 464,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 20,
+          "text": "<font color=\"#000000\" face=\"Ubuntu\"><b>For a specific tweet:&nbsp;<br></b>On Twitter, only those who directly retweet <br>the original tweet will appear in the<br>&nbsp;webpage of the original tweet <br>(those who retweet the retweeters will <br>not be listed).<br><br></font>On Sina Weibo, all the retweeters are archived<br>&nbsp;in the webpage of the original tweet<br>",
           "selected": false,
-          "skewX": -0.5
+          "skewX": -0.21
         }
       ],
       "z": 0,
@@ -209,45 +236,6 @@
       "x": 397,
       "y": 458,
       "background": "bg-solid-salmon"
-    },
-    {
-      "components": [
-        {
-          "src": "http://www.youtube.com/watch?v=yQBOF7XeCE0",
-          "type": "Video",
-          "x": 104,
-          "y": 192,
-          "scale": {
-            "width": 813.7335820507487,
-            "height": 524.9038321547421
-          },
-          "shortSrc": "yQBOF7XeCE0",
-          "videoType": "youtube",
-          "srcType": "yt",
-          "selected": false
-        },
-        {
-          "TextBox": {},
-          "x": 101,
-          "y": 91,
-          "scale": {
-            "x": 1,
-            "y": 1
-          },
-          "type": "TextBox",
-          "size": 36,
-          "text": "<font color=\"#1a3493\" face=\"League Gothic\">Projet Cascade (R&amp;D NYTimes Labs)<br></font><font color=\"#7bb615\">News sharing on Twitter</font><br>",
-          "selected": false
-        }
-      ],
-      "z": 0,
-      "impScale": 3,
-      "rotateX": 0,
-      "rotateY": 0,
-      "rotateZ": 0,
-      "index": 3,
-      "selected": false,
-      "active": false
     },
     {
       "components": [
@@ -299,7 +287,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0.36,
-      "index": 4,
+      "index": 3,
       "selected": false,
       "active": false,
       "x": 271,
@@ -370,7 +358,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0.78,
-      "index": 5,
+      "index": 4,
       "selected": false,
       "active": false,
       "x": 429,
@@ -379,22 +367,6 @@
     },
     {
       "components": [
-        {
-          "src": "http://farm4.staticflickr.com/3747/10833072754_073d256fb3_o.png",
-          "type": "Image",
-          "x": 134,
-          "y": 80,
-          "scale": {
-            "x": 0.8482758620689654,
-            "y": 0.8482758620689654,
-            "width": 737.9999999999999,
-            "height": 493.69655172413786
-          },
-          "imageType": "PNG",
-          "selected": false,
-          "skewX": 0.29,
-          "rotate": 0.04
-        },
         {
           "TextBox": {},
           "x": 193,
@@ -407,8 +379,22 @@
           "size": 29,
           "text": "<font face=\"Ubuntu\" color=\"#7bb615\">H1a: interpersonal effects<br>&nbsp;measured by mean threshold significantly<br>&nbsp;influence the size of information diffusi</font><font face=\"Ubuntu\" color=\"#7bb615\">on</font><font face=\"Ubuntu\" color=\"#000000\">.</font><br>",
           "selected": false,
-          "rotate": 0.03,
+          "rotate": -0.01,
           "skewX": -0.25
+        },
+        {
+          "src": "http://farm8.staticflickr.com/7311/10900051124_86dcd5ff4c_c.jpg",
+          "type": "Image",
+          "x": 74,
+          "y": 49,
+          "scale": {
+            "x": 1.08625,
+            "y": 1.08625,
+            "width": 869,
+            "height": 547.4699999999999
+          },
+          "imageType": "JPG",
+          "selected": false
         }
       ],
       "z": 0,
@@ -416,7 +402,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 6,
+      "index": 5,
       "selected": false,
       "active": false,
       "x": 804,
@@ -440,36 +426,36 @@
         },
         {
           "TextBox": {},
-          "x": 72,
-          "y": 105,
+          "x": 52,
+          "y": 100,
           "scale": {
             "x": 1,
             "y": 1
           },
           "type": "TextBox",
           "size": 23,
-          "text": "<font color=\"#000000\" face=\"Ubuntu\"><b>The J-curve model illustrates, there is a nonlinear relationship<br>&nbsp;between interpersonal effects and diffusion size (Greenberg, 1964;<br>&nbsp;MaQuail &amp; Windahl, 1993).&nbsp;<br></b><br>1. for the information of less importance, there is a negative relationship<br>between interpersonal effects and diffusion size; <br>2. while for those information of larger salience, there is a positive <br>relationship between&nbsp;interpersonal effects and diffusion size.&nbsp;<br><br></font><b>Two regimes</b> of social influence in the diffusion of Facebook applications <br>(Onnela &amp; Reed-Tsochas, 2010)<br>",
+          "text": "<font face=\"Ubuntu\"><b><font color=\"#7bb615\">The J-curve model illustrates that there is a nonlinear relationship<br>&nbsp;between interpersonal effects and diffusion size (Greenberg, 1964;<br>&nbsp;MaQuail &amp; Windahl, 1993).&nbsp;</font><br></b><br><font color=\"#1a3493\">1. for the information of less importance, there is a negative relationship<br>between interpersonal effects and diffusion size; <br>2. while for those information of larger salience, there is a positive <br>relationship between&nbsp;interpersonal effects and diffusion size.&nbsp;</font><br><br></font><font color=\"#b61515\"><b>Two regimes</b> of social influence exist in the diffusion of Facebook applications <br>(Onnela &amp; Reed-Tsochas, 2010)</font><br>",
           "selected": false
         },
         {
           "src": "http://farm8.staticflickr.com/7316/10832983706_779306a751_b.jpg",
           "type": "Image",
-          "x": 71,
-          "y": 431,
+          "x": 59,
+          "y": 401,
           "scale": {
-            "x": 0.48339843750000006,
-            "y": 0.48339843750000006,
-            "width": 495.00000000000006,
-            "height": 309.37500000000006
+            "x": 0.49999999999999994,
+            "y": 0.49999999999999994,
+            "width": 511.99999999999994,
+            "height": 319.99999999999994
           },
           "imageType": "JPG",
           "selected": false,
-          "skewX": 0.05,
-          "rotate": -0.01
+          "skewX": 0,
+          "rotate": 0.01
         },
         {
           "TextBox": {},
-          "x": 571,
+          "x": 582,
           "y": 553,
           "scale": {
             "x": 1,
@@ -489,12 +475,12 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 7,
+      "index": 6,
       "selected": false,
       "active": false,
       "x": 636,
       "y": 263,
-      "background": "bg-solid-grass"
+      "background": "bg-solid-light"
     },
     {
       "components": [
@@ -560,12 +546,12 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0.78,
-      "index": 8,
+      "index": 7,
       "selected": false,
       "active": false,
       "x": 834,
       "y": 417,
-      "background": "bg-solid-grass"
+      "background": "bg-solid-purple"
     },
     {
       "components": [
@@ -602,12 +588,12 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0.78,
-      "index": 9,
+      "index": 8,
       "selected": false,
       "active": false,
       "x": 1287,
       "y": 397,
-      "background": "bg-solid-smoke"
+      "background": "bg-solid-yellow"
     },
     {
       "components": [
@@ -644,7 +630,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0.78,
-      "index": 10,
+      "index": 9,
       "selected": false,
       "active": false,
       "x": 1059,
@@ -671,7 +657,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 11,
+      "index": 10,
       "selected": false,
       "active": false,
       "x": 1319,
@@ -682,7 +668,7 @@
         {
           "src": "http://farm6.staticflickr.com/5548/10833586974_54d909bcce_b.jpg",
           "type": "Image",
-          "x": 26,
+          "x": 6,
           "y": 27,
           "scale": {
             "x": 0.4921875,
@@ -696,8 +682,8 @@
         {
           "src": "http://farm8.staticflickr.com/7447/10833587074_a894d50b87_b.jpg",
           "type": "Image",
-          "x": 454,
-          "y": 375,
+          "x": 470,
+          "y": 376,
           "scale": {
             "x": 0.53125,
             "y": 0.53125,
@@ -708,29 +694,29 @@
           "selected": false
         },
         {
-          "src": "http://farm3.staticflickr.com/2877/10833586634_0107d1fded_b.jpg",
+          "src": "http://farm3.staticflickr.com/2892/10899919534_5e11965965_o.png",
           "type": "Image",
-          "x": 591,
-          "y": 10,
+          "x": 2,
+          "y": 385,
           "scale": {
-            "x": 0.359375,
-            "y": 0.359375,
-            "width": 368,
-            "height": 368
+            "x": 0.5897435897435898,
+            "y": 0.5897435897435898,
+            "width": 460,
+            "height": 331.43589743589746
           },
-          "imageType": "JPG",
+          "imageType": "PNG",
           "selected": false
         },
         {
-          "src": "http://farm6.staticflickr.com/5522/10833423715_d51f8a778a_b.jpg",
+          "src": "http://farm6.staticflickr.com/5519/10900093763_2de2b28a61_c.jpg",
           "type": "Image",
-          "x": 8,
-          "y": 379,
+          "x": 539,
+          "y": 9,
           "scale": {
-            "x": 0.5891472868217055,
-            "y": 0.5891472868217055,
-            "width": 456.00000000000006,
-            "height": 328.74418604651163
+            "x": 0.4775,
+            "y": 0.4775,
+            "width": 382,
+            "height": 382
           },
           "imageType": "JPG",
           "selected": false
@@ -741,7 +727,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 12,
+      "index": 11,
       "selected": false,
       "active": false,
       "x": 3540,
@@ -752,8 +738,8 @@
         {
           "src": "http://weblab.com.cityu.edu.hk/blog/wp-content/uploads/2011/06/Web_Mining_Lab_Logo_light_version.gif",
           "type": "Image",
-          "x": 34,
-          "y": 384,
+          "x": 11,
+          "y": 696,
           "scale": {
             "x": 0.21250000000000002,
             "y": 0.21250000000000002,
@@ -766,8 +752,8 @@
         {
           "src": "http://chengjun.github.io/",
           "type": "WebFrame",
-          "x": 461,
-          "y": -22,
+          "x": 265,
+          "y": -38,
           "scale": {
             "x": 0.9758665045331216,
             "y": 0.9758665045331216,
@@ -779,15 +765,28 @@
         },
         {
           "TextBox": {},
-          "x": 7,
-          "y": 513,
+          "x": 6,
+          "y": 542,
           "scale": {
             "x": 1,
             "y": 1
           },
           "type": "TextBox",
-          "size": 69,
+          "size": 48,
           "text": "<font face=\"Ubuntu\" color=\"#eeeeee\">This is the end.<br>Thank you.<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 423,
+          "y": 713,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font face=\"Ubuntu\" color=\"#7bb615\">chengjun.github.io</font>",
           "selected": false
         }
       ],
@@ -796,7 +795,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": -1.93,
-      "index": 13,
+      "index": 12,
       "selected": true,
       "active": true,
       "x": 1057,
@@ -810,8 +809,8 @@
       {
         "src": "http://weblab.com.cityu.edu.hk/blog/wp-content/uploads/2011/06/Web_Mining_Lab_Logo_light_version.gif",
         "type": "Image",
-        "x": 34,
-        "y": 384,
+        "x": 11,
+        "y": 696,
         "scale": {
           "x": 0.21250000000000002,
           "y": 0.21250000000000002,
@@ -824,8 +823,8 @@
       {
         "src": "http://chengjun.github.io/",
         "type": "WebFrame",
-        "x": 461,
-        "y": -22,
+        "x": 265,
+        "y": -38,
         "scale": {
           "x": 0.9758665045331216,
           "y": 0.9758665045331216,
@@ -837,15 +836,28 @@
       },
       {
         "TextBox": {},
-        "x": 7,
-        "y": 513,
+        "x": 6,
+        "y": 542,
         "scale": {
           "x": 1,
           "y": 1
         },
         "type": "TextBox",
-        "size": 69,
+        "size": 48,
         "text": "<font face=\"Ubuntu\" color=\"#eeeeee\">This is the end.<br>Thank you.<br></font>",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 423,
+        "y": 713,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 24,
+        "text": "<font face=\"Ubuntu\" color=\"#7bb615\">chengjun.github.io</font>",
         "selected": false
       }
     ],
@@ -854,7 +866,7 @@
     "rotateX": 0,
     "rotateY": 0,
     "rotateZ": -1.93,
-    "index": 13,
+    "index": 12,
     "selected": true,
     "active": true,
     "x": 1057,
