@@ -1,4 +1,4 @@
-http://chengjunwang.com/slides/gaoqiao/index.html?gaoqiao&cc#0
+http://chengju.github.io/slides/gaoqiao/index.html?gaoqiao&cc#0
 
 slides
 ======
